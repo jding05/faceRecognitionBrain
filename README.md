@@ -2,4 +2,4 @@
 https://jding05-facerecognitionbrain.herokuapp.com/
 
 # Demo
-![](assets/demo.gif?raw=true)
+![](assets/faceRecongnitionBrain.gif?raw=true)
